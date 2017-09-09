@@ -1,16 +1,13 @@
-/*!
- * Start Bootstrap - Full (https://startbootstrap.com/template-overviews/full)
- * Copyright 2013-2017 Start Bootstrap
- * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-full/blob/master/LICENSE)
- */
-
 .container-fluid {
     padding-left: 0;
     padding-right: 0;
 }
 
+/**
+ * Image source: https://pixabay.com/en/books-bookshelf-library-education-2463779/
+ **/
 .main {
-  background: url('http://placehold.it/1920x1080') no-repeat center center fixed;
+  background: url('../img/bg2.jpg') no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   background-size: cover;
